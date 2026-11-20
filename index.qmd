@@ -2,7 +2,7 @@
 title: "Anemos"
 ---
 
-Anemos is an air quality consultancy. This is a Quarto website.
+Anemos is an air quality consultancy. We provide services for: 
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
