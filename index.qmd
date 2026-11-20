@@ -2,10 +2,9 @@
 title: "Anemos"
 ---
 
-Anemos is an air quality consultancy. We provide services for: 
+Anemos is an air quality consultancy. We can help with:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+-Dispersion modelling of roads or industrial sources
+-Planning of monitoring campaigns, advice on selection of monitoring equipment, production and review of monitoring reports in relation to compliance issues
+-Reviews of consent applications, and development of suitable planning conditions
+-Meteorological modelling
